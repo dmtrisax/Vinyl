@@ -1,0 +1,462 @@
+{
+  "albums": [
+    {
+      "cover": "cover17.jpeg",
+      "project": "Giant Steps",
+      "artist": "John Coltrane",
+      "price": "25.99",
+      "genre": "Jazz",
+      "released": "1959",
+      "article": "T17",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover1.png",
+      "project": "Faces (Re-Release)",
+      "artist": "Mac Miller",
+      "price": "49.99",
+      "genre": "Hip-Hop",
+      "released": "2021",
+      "article": "T2",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover8.png",
+      "project": "CALL ME IF YOU GET LOST",
+      "artist": "Tyler, the Creator",
+      "price": "27.95",
+      "genre": "Hip-Hop",
+      "released": "2021",
+      "article": "T8",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover12.png",
+      "project": "The Marshall Mathers LP",
+      "artist": "Eminem",
+      "price": "27.95",
+      "genre": "Hip-Hop",
+      "released": "2000",
+      "article": "T12",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover4.jpg",
+      "project": "Swimming",
+      "artist": "Mac Miller",
+      "price": "29.99",
+      "genre": "Hip-Hop",
+      "released": "2018",
+      "article": "T4",
+      "quantity": "1",
+      "tracklist": "back4.jpeg"
+    },
+     
+    {
+      "cover": "cover7.png",
+      "project": "IGOR",
+      "artist": "Tyler, the Creator",
+      "price": "29.99",
+      "genre": "Hip-Hop",
+      "released": "2019",
+      "article": "T7",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover5.png",
+      "project": "Circles",
+      "artist": "Mac Miller",
+      "price": "35.00",
+      "genre": "Hip-Hop",
+      "released": "2020",
+      "article": "T5",
+      "quantity": "1"
+    },
+
+    {
+      "cover": "cover20.jpeg",
+      "project": "A Love Supreme",
+      "artist": "John Coltrane",
+      "price": "30.99",
+      "genre": "Jazz",
+      "released": "1965",
+      "article": "T20",
+      "quantity": "1"
+    },
+  
+    {
+      "cover": "cover40.png",
+      "project": "Speakerboxxx / The Love Below",
+      "artist": "OutKast",
+      "price": "21.00",
+      "genre": "Hip-Hop",
+      "released": "2003",
+      "article": "T40",
+      "quantity": "1"
+    },
+  
+  
+    {
+      "cover": "cover10.png",
+      "project": "TYRON",
+      "artist": "slowthai",
+      "price": "39.99",
+      "genre": "Hip-Hop",
+      "released": "2021",
+      "article": "T10",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover11.jpeg",
+      "project": "The Slim Shady LP",
+      "artist": "Eminem",
+      "price": "25.99",
+      "genre": "Hip-Hop",
+      "released": "1999",
+      "article": "T11",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover13.jpeg",
+      "project": "Two Blocks from the Edge",
+      "artist": "Michael Brecker",
+      "price": "20.95",
+      "genre": "Jazz",
+      "released": "1998",
+      "article": "T13",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover3.png",
+      "project": "The Devine Feminine",
+      "artist": "Mac Miller",
+      "price": "27.99",
+      "genre": "Hip-Hop",
+      "released": "2016",
+      "article": "T3",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover15.jpeg",
+      "project": "Don't Try This at Home",
+      "artist": "Michael Brecker",
+      "price": "27.95",
+      "genre": "Jazz",
+      "released": "1988",
+      "article": "T15",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover9.jpg",
+      "project": "Nothing Great About Britain",
+      "artist": "slowthai",
+      "price": "35.95",
+      "genre": "Hip-Hop",
+      "released": "2019",
+      "article": "T9",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover16.jpeg",
+      "project": "Blue Train",
+      "artist": "John Coltrane",
+      "price": "22.90",
+      "genre": "Jazz",
+      "released": "1958",
+      "article": "T16",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover2.png",
+      "project": "GO:OD AM",
+      "artist": "Mac Miller",
+      "price": "26.95",
+      "genre": "Hip-Hop",
+      "released": "2015",
+      "article": "T1",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover46.png",
+      "project": "The Dark Side of the Moon",
+      "artist": "Pink Floyd",
+      "price": "35.99",
+      "genre": "Rock",
+      "released": "1973",
+      "article": "T46",
+      "quantity": "1"
+    },
+ 
+    {
+      "cover": "cover6.jpg",
+      "project": "Flower Boy",
+      "artist": "Tyler, the Creator",
+      "price": "24.99",
+      "genre": "Hip-Hop",
+      "released": "2017",
+      "article": "T6",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover18.jpeg",
+      "project": "My Favorite Things",
+      "artist": "John Coltrane",
+      "price": "20.99",
+      "genre": "Jazz",
+      "released": "1961",
+      "article": "T18",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover19.jpeg",
+      "project": "Duke Ellington & John Coltrane",
+      "artist": "Duke Ellington and John Coltrane",
+      "price": "25.99",
+      "genre": "Jazz",
+      "released": "1961",
+      "article": "T19",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover14.jpeg",
+      "project": "Tales from the Hudson",
+      "artist": "Michael Brecker",
+      "price": "25.99",
+      "genre": "Jazz",
+      "released": "1996",
+      "article": "T14",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover45.png",
+      "project": "Abbey Road",
+      "artist": "The Beatles",
+      "price": "36.99",
+      "genre": "Rock",
+      "released": "1969",
+      "article": "T45",
+      "quantity": "1"
+    },
+
+  {
+      "cover": "cover21.png",
+      "project": "Blonde",
+      "artist": "Frank Ocean",
+      "price": "24.99",
+      "genre": "R&B",
+      "released": "2016",
+      "article": "T21",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover22.png",
+      "project": "Chanel Orange",
+      "artist": "Frank Ocean",
+      "price": "24.90",
+      "genre": "R&B",
+      "released": "2012",
+      "article": "T22",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover23.png",
+      "project": "Starboy",
+      "artist": "The Weeknd",
+      "price": "22.90",
+      "genre": "R&B",
+      "released": "2016",
+      "article": "T23",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover24.jpeg",
+      "project": "Eminem",
+      "artist": "The Eminem Show (Expanded Edition)",
+      "price": "28.90",
+      "genre": "Hip-Hop",
+      "released": "2002",
+      "article": "T24",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover25.jpeg",
+      "project": "Eminem",
+      "artist": "Marshall Mather LP2",
+      "price": "22.90",
+      "genre": "Hip-Hop",
+      "released": "2013",
+      "article": "T25",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover26.jpeg",
+      "project": "Eminem",
+      "artist": "Music to Be Murdered By Side A",
+      "price": "23.90",
+      "genre": "Hip-Hop",
+      "released": "2020",
+      "article": "T26",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover27.jpeg",
+      "project": "Eminem",
+      "artist": "Music to Be Murdered By Side B",
+      "price": "23.90",
+      "genre": "Hip-Hop",
+      "released": "2020",
+      "article": "T27",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover28.jpeg",
+      "project": "Dexter Gordon",
+      "artist": "GO",
+      "price": "23.90",
+      "genre": "Jazz",
+      "released": "1962",
+      "article": "T28",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover29.jpeg",
+      "project": "Charlie Parker",
+      "artist": "Charlie Parker with Strings",
+      "price": "24.90",
+      "genre": "Jazz",
+      "released": "1995",
+      "article": "T29",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover30.jpeg",
+      "project": "Redman",
+      "artist": "Muddy Waters",
+      "price": "24.90",
+      "genre": "Hip-Hop",
+      "released": "1996",
+      "article": "T30",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover31.png",
+      "project": "OutKast",
+      "artist": "Stankonia",
+      "price": "24.90",
+      "genre": "Hip-Hop",
+      "released": "2000",
+      "article": "T31",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover32.jpg",
+      "project": "Method Man",
+      "artist": "Tical",
+      "price": "23.90",
+      "genre": "Hip-Hop",
+      "released": "1994",
+      "article": "T32",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover33.jpeg",
+      "project": "OutKast",
+      "artist": "Southernplayalisticadillacmuzik",
+      "price": "23.90",
+      "genre": "Hip-Hop",
+      "released": "1994",
+      "article": "T33",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover34.jpeg",
+      "project": "OutKast",
+      "artist": "ATLiens",
+      "price": "25.90",
+      "genre": "Hip-Hop",
+      "released": "1996",
+      "article": "T34",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover35.jpeg",
+      "project": "OutKast",
+      "artist": "Aquemini",
+      "price": "25.00",
+      "genre": "Hip-Hop",
+      "released": "1998",
+      "article": "T35",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover36.jpeg",
+      "project": "Redman",
+      "artist": "Muddy Waters",
+      "price": "26.90",
+      "genre": "Hip-Hop",
+      "released": "1994",
+      "article": "T36",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover37.jpeg",
+      "project": "Joshua Redman",
+      "artist": "Beyond",
+      "price": "21.20",
+      "genre": "Jazz",
+      "released": "2000",
+      "article": "T37",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover38.jpeg",
+      "project": "Joshua Redman",
+      "artist": "Joshua Redman",
+      "price": "25.90",
+      "genre": "Jazz",
+      "released": "1993",
+      "article": "T38",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover41.jpeg",
+      "project": "Man In Black",
+      "artist": "Johnny Cash",
+      "price": "27.91",
+      "genre": "Country",
+      "released": "1971",
+      "article": "T41",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover42.jpeg",
+      "project": "American IV: The Man Comes Around",
+      "artist": "Johnny Cash",
+      "price": "24.99",
+      "genre": "Country",
+      "released": "2002",
+      "article": "T42",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover43.jpeg",
+      "project": "American V: A Hundred Highways",
+      "artist": "Johnny Cash",
+      "price": "31.00",
+      "genre": "Country",
+      "released": "2006",
+      "article": "T43",
+      "quantity": "1"
+    },
+    {
+      "cover": "cover44.jpeg",
+      "project": "The Freewheelin' Bob Dylan",
+      "artist": "Bob Dylan",
+      "price": "21.99",
+      "genre": "Folk",
+      "released": "1963",
+      "article": "T44",
+      "quantity": "1"
+    }
+  ]
+}
